@@ -53,7 +53,7 @@ function sveukupnaCijena() {
   }
   return ukupno;
 }
-S
+
 function najskupljaStavka(){
   let max = 0;
   let nazivNaj = ""
